@@ -1,0 +1,91 @@
+* {
+  font-size: 16px;
+  color: #3399ff;
+}
+
+.navbar-nav {
+  text-align: center;
+}
+
+#link {
+  font-size: 16px;
+  color: #3399ff;
+  text-decoration: none;
+  font-weight: 500;
+  border-radius: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+
+}
+
+.align ul {
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.align ul li {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+#link:hover {
+  background-color: #3399ff;
+  color: white;
+}
+
+
+.d-inline {
+  background-color: #006699;
+  color: white;
+  padding: 5px;
+  padding-right: 15px;
+  padding-left: 15px;
+  font-size: 16px;
+  border-radius: 4px;
+}
+
+.content {
+  margin-right: 10%;
+  margin-left: 10%;
+}
+
+.content h6 {
+  text-align: center;
+  background-color: #3399ff;
+  color: #ffffff;
+  padding: 5px;
+  padding-right: 15px;
+  padding-left: 15px;
+  font-size: 16px;
+  border-radius: 16px;
+}
+
+.content a {
+  text-decoration: none;
+  color: white;
+}
+
+.content a:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.align-1 {
+  margin-top: 2%;
+}
+
+.content h6:hover {
+  background-color: #006699;
+  color: white;
+}
+
+.content-2 a {
+  color: #3399ff;
+  margin-right: 10%;
+  margin-left: 10%;
+
+}
+
+.content-2 a:hover {
+  color: #006699;
+}
