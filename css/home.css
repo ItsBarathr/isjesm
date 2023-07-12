@@ -1,0 +1,160 @@
+.navbar-nav {
+  text-align: center;
+}
+
+#link {
+  font-size: 16px;
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: 500;
+  border-radius: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+
+}
+
+.align ul {
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.align ul li {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+#link:hover {
+ 
+  color: white;
+  border-radius: 10px;
+}
+
+
+.head {
+  text-align: center;
+  color: #3399ff;
+  font-size: 28px;
+}
+
+.head span {
+  font-size: 18px;
+  text-align: right;
+}
+
+
+.d-inline {
+  background-color: #006699;
+  color: white;
+  padding: 5px;
+  padding-right: 15px;
+  padding-left: 15px;
+  font-size: 16px;
+  border-radius: 4px;
+}
+
+.content {
+  margin-right: 10%;
+  margin-left: 10%;
+}
+
+.cont h6 {
+  text-align: center;
+  background-color: #3399ff;
+  color: #ffffff;
+  padding: 5px;
+  padding-right: 15px;
+  padding-left: 15px;
+  font-size: 16px;
+  border-radius: 16px;
+}
+
+.cont a {
+  text-decoration: none;
+  color: white;
+}
+
+.cont a:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.align-1 {
+  margin-top: 2%;
+}
+
+.cont h6:hover {
+  background-color: #006699;
+  color: white;
+}
+
+.content-2 a {
+  color: #3399ff;
+  margin-right: 10%;
+  margin-left: 10%;
+}
+
+.content-2 a:hover {
+  color: #006699;
+}
+
+#accordionFlushExample {
+  font-size: 16px;
+}
+
+.accordion-item h2 {
+  font-size: 16px;
+}
+
+.accordion {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+}
+
+.active,
+.accordion:hover {
+  background-color: #ccc;
+}
+
+.accordion:after {
+  content: '\002B';
+  color: #777;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2212";
+}
+
+.panel {
+  padding: 0 18px;
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+
+.content h6 {
+  text-align: center;
+  background-color: #3399ff;
+  color: #ffffff;
+  padding: 5px;
+  padding-right: 15px;
+  padding-left: 15px;
+  font-size: 16px;
+  border-radius: 16px;
+}
+
+.content h6:hover {
+  background-color: #006699;
+  color: white;
+}
